@@ -14,4 +14,5 @@ Skills :
 - Imperative programming
 - Algorithms & AI  
 
-BONUS effectué en Python
+
+-> BONUS effectué en Python
