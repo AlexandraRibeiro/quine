@@ -15,4 +15,4 @@ Skills :
 - Algorithms & AI  
 
 
--> BONUS effectué en Python
+-> BONUS effectués en Python
