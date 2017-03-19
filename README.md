@@ -13,3 +13,5 @@ Skills :
 - Unix
 - Imperative programming
 - Algorithms & AI  
+
+BONUS effectué en Python
